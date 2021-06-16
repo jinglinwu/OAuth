@@ -1,4 +1,4 @@
-# OAuth
+# OAuth Examples in NodeJS
 Examples of how to integrated with authentication providers using passport
 
 Install
